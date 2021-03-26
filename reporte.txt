@@ -1,0 +1,51 @@
+********************************************************************************
+Nombre de la CampaÃ±a                    Total    Malos   Enviados  Pct Malos
+********************************************************************************
+Adecco 28/09-4906356                     8595      191       8404    2.22%
+Adecco Empresas 23/09                    8586      190       8396    2.21%
+Aniversario_BD_ElUniversal              90441        0      90441       0%
+Aniversario_BD_Estampas                 11500        0      11500       0%
+Aniversario_BD_Lectores                 10458      189      10200    1.81%
+Aniversario_BD_MujeresEST                  45        3         42    6.67%
+Aniversarios CVF                         2006     1002       1004    50.0%
+CV_VE_Invitacion_Postulaciones II        1186       31       1155    2.61%
+CV_VE_Invitacion_Postulaciones III        579        0        579       0%
+CV_VE_Invitacion_Postulaciones IV          20        0         20       0%
+CV_VE_Invitacion_Postulaciones V          176        0        176       0%
+CV_VE_Invitacion_Postulaciones VI        3056        4       3052   0.131%
+CV_VE_NewsLetters_Personas                 30        0          0       0%
+Clasificados - Lanzamiento I           309818    55565     254253    17.9%
+Clasificados - Lanzamiento II          229173    51424     177745    22.4%
+ConcursoCocina_BDEstampas                7363        0       7362       0%
+ConcursoCocina_BDLectores                6972      128       6798    1.84%
+ConcursoCocina_BDMujeres                   15        1         14    6.67%
+Creatividad & Media - Mailing            3296        4       3292   0.121%
+Empleo Aniversarios                     81933       96      81837   0.117%
+Empleo Boletin Empresas                  8580      180       8400    2.10%
+Empleo Boletin Personas I               71467      231      71236   0.323%
+Empleo Boletin Personas II              75457      237      75220   0.314%
+Empleo Boletin Personas III             75272      270      75002   0.359%
+Empleo Invitacion Postulaciones         11215       37      11178   0.330%
+Empleo Navidad 09 Empresas                  1        0          1       0%
+Empleo Oportunidades Personas               5        0          0       0%
+Empleo Publicidad  Personas I           76772      382      76390   0.498%
+Empleo Publicidad Empresas              17083      363      16720    2.12%
+Empleo Publicidad Empresas II               3        0          0       0%
+Empleo Publicidad Personas I                1        0          1       0%
+Empleo Publicidad Personas II          151050      477     150573   0.316%
+Empleo Publicidad Personas III          76765      378      76387   0.492%
+Encuesta_BD El Universal                72178        0      72178       0%
+Encuesta_BD Estampas                     9272        0       9272       0%
+Encuesta_Lectores Estampas              10458      190      10199    1.82%
+Guía de Servicios_BD_Estampas            9496        0       9496       0%
+Guía de Servicios_El Universal          18044        0      18044       0%
+Guía de servicios_Lectores_Estampas      3486       62       3401    1.78%
+Guía de servicios_Mujeres_Estampas         15        1         14    6.67%
+Mercadeo UNICA                         825839        0     825738       0%
+Newsletter EUD Unica                  7192748   103748    7088900    1.44%
+OfertasXExpirar                           999       40        959    4.00%
+PAL-BlacKberry 1.000 bonificaciones      1000        0       1000       0%
+PAL-Blackberry 5000 16/09                5000        0       5000       0%
+Publicidad Album Panini                     1        0          1       0%
+Teleshopping 28/09                        600        1        599   0.167%
+Unimet Personas 06/10                   63184       34      63150  0.0538%
